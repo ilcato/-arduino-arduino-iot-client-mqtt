@@ -1,0 +1,25 @@
+{
+  "name": "arduino-iot-client-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilcato/arduino-iot-client-mqtt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilcato/arduino-iot-client-mqtt/issues"
+  },
+  "homepage": "https://github.com/ilcato/arduino-iot-client-mqtt#readme",
+  "dependencies": {
+    "@arduino/cbor-js": "github:arduino/cbor-js",
+    "jws": "^3.2.2",
+    "paho-client": "^1.0.1",
+    "ws": "^7.2.0"
+  }
+}
