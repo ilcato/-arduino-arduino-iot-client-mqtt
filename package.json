@@ -20,6 +20,6 @@
     "@arduino/cbor-js": "github:arduino/cbor-js",
     "jws": "^3.2.2",
     "paho-client": "^1.0.1",
-    "ws": "^7.2.0"
+    "ws": "^7.4.6"
   }
 }
